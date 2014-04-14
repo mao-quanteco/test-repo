@@ -1,4 +1,4 @@
 test-repo
 =========
 
-A test repo to use  R-programming (Coursera)
+A test repo to use in R-programming (Coursera)
